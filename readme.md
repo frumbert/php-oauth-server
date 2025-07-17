@@ -68,6 +68,14 @@ Just have these in my servers environment variables for easy editing.
 
 `DB_PASS`
 
+## getting set up
+
+1. Run the private and public keys
+2. Set up your database and environment variables
+3. composer update to get the dependencies
+4. ...
+5. Profit!
+
 ## Licence
 
 MIT
