@@ -1,0 +1,22 @@
+{
+    "name": "frumbert/idp",
+    "description": "an example idp for moodle",
+    "type": "project",
+    "require": {
+        "league/oauth2-server": "^8.4",
+        "nyholm/psr7": "^1.8",
+        "nyholm/psr7-server": "^1.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Idp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TIm St.Clair",
+            "email": "592257+frumbert@users.noreply.github.com"
+        }
+    ]
+}
